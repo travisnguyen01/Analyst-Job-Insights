@@ -1,6 +1,6 @@
-Insights on manually collected job postings, identifying highest in-demand skills and salary trends using Excel and Tableau.
-
 # Data Analyst Job Market Analysis (Seattle Area)
+
+Insights on manually collected job postings, identifying highest in-demand skills and salary trends using Excel and Tableau.
 
 ## Overview
 This project analyzes 27 data analyst job postings to identify the most in-demand skills and salary trends across role levels.
