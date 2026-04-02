@@ -1,4 +1,3 @@
-<img width="1532" height="867" alt="image" src="https://github.com/user-attachments/assets/524bccea-40ff-4cdc-a9c7-6673cd8ef072" />data-analyst-job-market-analysis
 Insights on manually collected job postings, identifying highest in-demand skills and salary trends using Excel and Tableau.
 
 # Data Analyst Job Market Analysis (Seattle Area)
